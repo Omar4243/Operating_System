@@ -1,10 +1,12 @@
-/**
- * @ Author: Omar Megahed
- * @ Create Time: 2023-03-06 14:52:26
- * @ Modified by: Omar Megahed
- * @ Modified time: 2023-03-09 00:03:22
- * @ Description:
- */
+/*****************************************************************************
+ * @Author                : Omar MEGAHED<omar.megahed@valeo.com>             *
+ * @CreatedDate           : 2023-03-09 00:37:06                              *
+ * @LastEditors           : Omar MEGAHED<omar.megahed@valeo.com>             *
+ * @LastEditDate          : 2023-03-09 00:37:10                              *
+ * @FilePath              : OS_prg.c                                         *
+ ****************************************************************************/
+
+
 #include "OS_int.h"
 #include "OS_cfg.h"
 #include "bit_math.h"

@@ -1,13 +1,11 @@
-/**
- * @file OS_cfg.h
- * @author your name (you@domain.com)
- * @brief 
- * @version 0.1
- * @date 2023-03-08
- * 
- * @copyright Copyright (c) 2023
- * 
- */
+/*****************************************************************************
+ * @Author                : Omar MEGAHED<omar.megahed@valeo.com>             *
+ * @CreatedDate           : 2023-03-09 00:39:23                              *
+ * @LastEditors           : Omar MEGAHED<omar.megahed@valeo.com>             *
+ * @LastEditDate          : 2023-03-09 00:39:30                              *
+ * @FilePath              : OS_cfg.h                                         *
+ ****************************************************************************/
+
 #ifndef _OS_CFG_H_
 #define _OS_CFG_H_
 #include "std_type.h"

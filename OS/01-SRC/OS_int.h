@@ -1,5 +1,13 @@
-#ifndef OS_H
-#define OS_H
+/*****************************************************************************
+ * @Author                : Omar MEGAHED<omar.megahed@valeo.com>             *
+ * @CreatedDate           : 2023-03-09 00:37:59                              *
+ * @LastEditors           : Omar MEGAHED<omar.megahed@valeo.com>             *
+ * @LastEditDate          : 2023-03-09 00:38:00                              *
+ * @FilePath              : OS_int.h                                         *
+ ****************************************************************************/
+
+#ifndef _OS_H_
+#define _OS_H_
 /*Headers*/
 #include "std_type.h"
 
