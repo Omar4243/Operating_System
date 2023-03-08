@@ -3,18 +3,6 @@
 /*Headers*/
 #include "std_type.h"
 
-/*task type*/
-typedef struct 
-{
- void (*Func)(void);
- u8  Period_Ticks;
- u8  Delay_Ticks ;
- u8  RunMe;
-}OsTask_t;
-
-/*system tick count*/
-typedef u8 SysTick_t;
-
 /*Function Prototype*/
 /**
  * @brief schadular initialize (Tick Time in ms) 
